@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/flex1.css");
+
+@import url("components/card-grid.css");
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 100px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  margin: 40px 20px;
+  text-align: center;
+}
+
+#everything {
+  background-color: rgb(240,240,240);
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#expertcoaching {
+  text-decoration: underline;
+  margin: 0 auto;
+}
+
+.card-white1 {
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0px 10px 100px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  margin: 40px 20px;
+  text-align: center;
+}
